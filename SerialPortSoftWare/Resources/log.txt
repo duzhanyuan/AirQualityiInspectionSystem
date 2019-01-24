@@ -1,0 +1,1545 @@
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+ % 1 % 2 % 3 % 4
+Debug : File:() Line :(0)This is a debug message,111(2019 - 01 - 23 11 : 24:15 周三)
+Warning :File:() Line :(0)This is a warning message(2019 - 01 - 23 11 : 24:15 周三)
+Warning :File:() Line :(0)Could not parse application stylesheet(2019 - 01 - 23 11 : 24:15 周三)
+Debug : File:() Line :(0)This is a debug message(2019 - 01 - 23 11 : 24:17 周三)
+Debug : File:() Line :(0)This is a debug message(2019 - 01 - 23 11 : 24:17 周三)
+Warning :File:() Line :(0)Could not parse application stylesheet(2019 - 01 - 23 14 : 53:24 周三)
+Debug : File:() Line :(0)This is a debug message(2019 - 01 - 23 14 : 56:07 周三)
+Warning :File:() Line :(0)Could not parse application stylesheet(2019 - 01 - 24 10 : 31:46 周四)
+Debug : File:() Line :(0)Name: "COM3"(2019 - 01 - 24 10 : 31:46 周四)
+Debug : File:() Line :(0)Description: "USB Serial Port"(2019 - 01 - 24 10 : 31:46 周四)
+Debug : File:() Line :(0)Manufacturer: "FTDI"(2019 - 01 - 24 10 : 31:46 周四)
+Debug : File:() Line :(0)open Serial 
+(2019 - 01 - 24 10 : 31:49 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 31:50 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 31:51 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 31:52 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 31:53 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 31:54 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 31:55 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 31:56 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 31:57 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\nK" 
+(2019 - 01 - 24 10 : 31:58 周四)
+Debug : File:() Line :(0)receive: " + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 31:59 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6663  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 32:00 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:01 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:02 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 32:03 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 32:04 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 32:05 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\nK +" 
+(2019 - 01 - 24 10 : 32:06 周四)
+Debug : File:() Line :(0)receive: " 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 32:07 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:08 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:09 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:10 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:11 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:12 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:13 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:14 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:15 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:16 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:17 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 32:18 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6665  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 32:19 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:20 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:21 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6665  g\r\nK + 58.6665  g\r\n" 
+(2019 - 01 - 24 10 : 32:22 周四)
+Debug : File:() Line :(0)receive: "K + 58.6665  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\nK + 58.6664  g\r\n" 
+(2019 - 01 - 24 10 : 32:23 周四)
+Debug : File:() Line :(0)receive: "K + 58.6664  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:24 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:25 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:26 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:27 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:28 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:29 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:30 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:31 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:32 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:33 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 32:34 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:35 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:36 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:37 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:38 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:39 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:40 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:41 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:42 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:43 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6663  g\r\n" 
+(2019 - 01 - 24 10 : 32:44 周四)
+Debug : File:() Line :(0)receive: "K + 58.6663  g\r\nK + 58.6663  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:45 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:46 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\nK + 5" 
+(2019 - 01 - 24 10 : 32:47 周四)
+Debug : File:() Line :(0)receive: "8.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:48 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 32:49 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 32:50 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6" 
+(2019 - 01 - 24 10 : 32:51 周四)
+Debug : File:() Line :(0)receive: "661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 32:52 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:53 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:54 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:55 周四)
+Debug : File:() Line :(0)receive: "K + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\nK + 58.6662  g\r\n" 
+(2019 - 01 - 24 10 : 32:56 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 32:57 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 32:58 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 32:59 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:00 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:01 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:02 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:03 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:04 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:05 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:06 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:07 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:08 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:09 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:10 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:11 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:12 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:13 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:14 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:15 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:16 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:17 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:18 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:19 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:20 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:21 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:22 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:23 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6659  g\r\n" 
+(2019 - 01 - 24 10 : 33:24 周四)
+Debug : File:() Line :(0)receive: "K + 58.6659  g\r\nK + 58.6659  g\r\nK + 58.6659  g\r\n" 
+(2019 - 01 - 24 10 : 33:25 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6659  g\r\nK + 58.6659  g\r\n" 
+(2019 - 01 - 24 10 : 33:26 周四)
+Debug : File:() Line :(0)receive: "K + 58.6659  g\r\nK + 58.6659  g\r\nK + 58.6659  g\r\n" 
+(2019 - 01 - 24 10 : 33:27 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:28 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:29 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:30 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:31 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6661  g\r\nK + 58.66" 
+(2019 - 01 - 24 10 : 33:32 周四)
+Debug : File:() Line :(0)receive: "61  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:33 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:34 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6661  g\r\nK + 58.6661  g\r\n" 
+(2019 - 01 - 24 10 : 33:35 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:36 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:37 周四)
+Debug : File:() Line :(0)receive: "K + 58.6661  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:38 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6660  g\r\nK + 58.6659  g\r\n" 
+(2019 - 01 - 24 10 : 33:39 周四)
+Debug : File:() Line :(0)receive: "K + 58.6659  g\r\nK + 58.6659  g\r\nK + 58.6659  g\r\n" 
+(2019 - 01 - 24 10 : 33:40 周四)
+Debug : File:() Line :(0)receive: "K + 58.6659  g\r\nK + 58.6659  g\r\nK + 58.6660  g\r\nK + 58.6660  g\r\n" 
+(2019 - 01 - 24 10 : 33:41 周四)
+Debug : File:() Line :(0)receive: "K + 58.6660  g\r\nK + 58.6659  g\r\nK + 58.6659  g\r\n" 
+(2019 - 01 - 24 10 : 33:42 周四)
+Debug : File:() Line :(0)receive: "K + 58.6659  g\r\nK + 58.6659  g\r\nK + 58.6659  g\r\n" 
+(2019 - 01 - 24 10 : 33:43 周四)
+Debug : File:() Line :(0)receive: "K + 58.6659  g\r\nK + 58.6658  g\r\nK + 58.6658  g\r\nK + 58.6658  g" 
+(2019 - 01 - 24 10 : 33:44 周四)
+Debug : File:() Line :(0)receive: "\r\nK + 58.6658  g\r\nK + 58.6658  g\r\nK + 58.6658  g\r\n" 
+(2019 - 01 - 24 10 : 33:45 周四)
+Debug : File:() Line :(0)receive: "K + 58.6657  g\r\nK + 58.6657  g\r\nK + 58.6657  g\r\n" 
+(2019 - 01 - 24 10 : 33:46 周四)
+Debug : File:() Line :(0)receive: "K + 58.6657  g\r\nK + 58.6657  g\r\nK + 58.6657  g\r\n" 
+(2019 - 01 - 24 10 : 33:47 周四)
+Debug : File:() Line :(0)receive: "K + 58.6657  g\r\nK + 58.6657  g\r\nK + 58.6657  g\r\n" 
+(2019 - 01 - 24 10 : 33:48 周四)
+Debug : File:() Line :(0)receive: "K + 58.6657  g\r\nK + 58.6657  g\r\nK + 58.6658  g\r\nK + 58.6658  g\r\n" 
+(2019 - 01 - 24 10 : 33:49 周四)
+Debug : File:() Line :(0)receive: "K + 58.6658  g\r\nK + 58.6658  g\r\nK + 58.6658  g\r\n" 
+(2019 - 01 - 24 10 : 33:50 周四)
+Debug : File:() Line :(0)receive: "K + 58.6658  g\r\nK + 58.6658  g\r\nK + 58.6658  g\r\n" 
+(2019 - 01 - 24 10 : 33:51 周四)
+Debug : File:() Line :(0)receive: "K + 58.6659  g\r\nK + 58.6659  g\r\nK + 58.6659  g\r\nK" 
+(2019 - 01 - 24 10 : 33:52 周四)
+Debug : File:() Line :(0)receive: " + 58.6659  g\r\nK + 58.6659  g\r\nK + 58.6659  g\r\nK + 58.6659  g\r\n" 
+(2019 - 01 - 24 10 : 33:53 周四)
+Debug : File:() Line :(0)receive: "K + 58.6659  g\r\nK + 58.6659  g\r\nK + 58.6659  g\r\n" 
+(2019 - 01 - 24 10 : 33:54 周四)
+Warning :File:() Line :(0)Could not parse application stylesheet(2019 - 01 - 24 10 : 34:10 周四)
+Debug : File:() Line :(0)Name: "COM3"(2019 - 01 - 24 10 : 34:11 周四)
+Debug : File:() Line :(0)Description: "USB Serial Port"(2019 - 01 - 24 10 : 34:11 周四)
+Debug : File:() Line :(0)Manufacturer: "FTDI"(2019 - 01 - 24 10 : 34:11 周四)
+Debug : File:() Line :(0)open Serial 
+(2019 - 01 - 24 10 : 34:30 周四)
+Debug : File:() Line :(0)receive: "K + 58.6652  g\r\nK + 58.6652  g\r\nK + 58.6651  g\r\n" 
+(2019 - 01 - 24 10 : 34:31 周四)
+Debug : File:() Line :(0)receive: "K + 58.6651  g\r\nK + 58.6650  g\r\nK + 58.6650  g\r\n" 
+(2019 - 01 - 24 10 : 34:32 周四)
+Debug : File:() Line :(0)receive: "K + 58.6650  g\r\nK + 58.6649  g\r\nK + 58.6648  g\r\n" 
+(2019 - 01 - 24 10 : 34:33 周四)
+Debug : File:() Line :(0)receive: "K + 58.6648  g\r\nK + 58.6649  g\r\nK + 58.6649  g\r\nK + 58.6649  g\r\n" 
+(2019 - 01 - 24 10 : 34:34 周四)
+Debug : File:() Line :(0)receive: "K + 58.6649  g\r\nK + 58.6649  g\r\nK + 58.6649  g\r\n" 
+(2019 - 01 - 24 10 : 34:35 周四)
+Debug : File:() Line :(0)receive: "K + 58.6649  g\r\nK + 58.6649  g\r\nK + 58.6649  g\r\n" 
+(2019 - 01 - 24 10 : 34:36 周四)
+Debug : File:() Line :(0)receive: "K + 58.6649  g\r\nK + 58.6649  g\r\nK + 58.6650  g\r\n" 
+(2019 - 01 - 24 10 : 34:37 周四)
+Debug : File:() Line :(0)receive: "K + 58.6650  g\r\nK + 58.6650  g\r\nK + 58.6650  g\r\nK + 58.6650  g\r\n" 
+(2019 - 01 - 24 10 : 34:38 周四)
+Debug : File:() Line :(0)receive: "K + 58.6650  g\r\nK + 58.6650  g\r\nK + 58.6650  g\r\n" 
+(2019 - 01 - 24 10 : 34:39 周四)
+Debug : File:() Line :(0)receive: "K + 58.6650  g\r\nK + 58.6650  g\r\nK + 58.6650  g\r\n" 
+(2019 - 01 - 24 10 : 34:40 周四)
+Debug : File:() Line :(0)receive: "K + 58.6649  g\r\nK + 58.6649  g\r\nK + 58.6648  g\r\n" 
+(2019 - 01 - 24 10 : 34:41 周四)
+Debug : File:() Line :(0)receive: "K + 58.6648  g\r\nK + 58.6648  g\r\nK + 58.6648  g\r\nK + 58.6647  g\r\n" 
+(2019 - 01 - 24 10 : 34:42 周四)
+Debug : File:() Line :(0)receive: "K + 58.6646  g\r\nK + 58.6645  g\r\nK + 58.6645  g\r\n" 
+(2019 - 01 - 24 10 : 34:43 周四)
+Debug : File:() Line :(0)receive: "K + 58.6645  g\r\nK + 58.6645  g\r\nK + 58.6645  g\r\n" 
+(2019 - 01 - 24 10 : 34:44 周四)
+Debug : File:() Line :(0)receive: "K + 58.6645  g\r\nK + 58.6645  g\r\nK + 58.6644  g\r\n" 
+(2019 - 01 - 24 10 : 34:45 周四)
+Debug : File:() Line :(0)receive: "K + 58.6645  g\r\nK + 58.6645  g\r\nK + 58.6646  g\r\nK + 58.6646  g\r\n" 
+(2019 - 01 - 24 10 : 34:46 周四)
+Debug : File:() Line :(0)receive: "K + 58.6645  g\r\nK + 58.6645  g\r\nK + 58.6645  g\r\n" 
+(2019 - 01 - 24 10 : 34:47 周四)
+Debug : File:() Line :(0)receive: "K + 58.6644  g\r\nK + 58.6644  g\r\nK + 58.6645  g\r\n" 
+(2019 - 01 - 24 10 : 34:48 周四)
+Debug : File:() Line :(0)receive: "K + 58.6645  g\r\nK + 58.6645  g\r\nK + 58.6645  g\r\n" 
+(2019 - 01 - 24 10 : 34:49 周四)
+Debug : File:() Line :(0)receive: "K + 58.6646  g\r\nK + 58.6645  g\r\nK + 58.6645  g\r\nK + 5" 
+(2019 - 01 - 24 10 : 34:50 周四)
+Debug : File:() Line :(0)receive: "8.6645  g\r\nK + 58.6645  g\r\nK + 58.6646  g\r\nK + 58.6646  g\r\n" 
+(2019 - 01 - 24 10 : 34:51 周四)
+Debug : File:() Line :(0)receive: "K + 58.6646  g\r\nK + 58.6647  g\r\nK + 58.6647  g\r\n" 
+(2019 - 01 - 24 10 : 34:52 周四)
+Debug : File:() Line :(0)receive: "K + 58.6648  g\r\nK + 58.6649  g\r\nK + 58.6649  g\r\n" 
+(2019 - 01 - 24 10 : 34:53 周四)
+Debug : File:() Line :(0)receive: "K + 58.6649  g\r\nK + 58.6649  g\r\nK + 58.6648  g\r\nK + 58.6" 
+(2019 - 01 - 24 10 : 34:54 周四)
+Debug : File:() Line :(0)receive: "648  g\r\nK + 58.6648  g\r\nK + 58.6649  g\r\nK + 58.6648  g\r\n" 
+(2019 - 01 - 24 10 : 34:55 周四)
+Debug : File:() Line :(0)receive: "K + 58.6648  g\r\nK + 58.6648  g\r\nK + 58.6649  g\r\n" 
+(2019 - 01 - 24 10 : 34:56 周四)
+Debug : File:() Line :(0)receive: "K + 58.6649  g\r\nK + 58.6650  g\r\nK + 58.6651  g\r\n" 
+(2019 - 01 - 24 10 : 34:57 周四)
+Debug : File:() Line :(0)receive: "K + 58.6651  g\r\nK + 58.6651  g\r\n" 
+(2019 - 01 - 24 10 : 34:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:16 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:16 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:17 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:18 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:19 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:20 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:21 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:22 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:23 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:24 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:25 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:26 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:27 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:28 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:29 周四)
+Debug : File:() Line :(0)open Serial 
+(2019 - 01 - 24 10 : 35:32 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03" 
+(2019 - 01 - 24 10 : 35:33 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03" 
+(2019 - 01 - 24 10 : 35:34 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03\x02""A00+1271103AA5D\x03" 
+(2019 - 01 - 24 10 : 35:35 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03" 
+(2019 - 01 - 24 10 : 35:36 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03" 
+(2019 - 01 - 24 10 : 35:37 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03" 
+(2019 - 01 - 24 10 : 35:38 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03" 
+(2019 - 01 - 24 10 : 35:39 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03\x02""A00+1271103AA5D\x03" 
+(2019 - 01 - 24 10 : 35:40 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03" 
+(2019 - 01 - 24 10 : 35:41 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03" 
+(2019 - 01 - 24 10 : 35:42 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271083AA55\x03\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:43 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:44 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271103AA5C\x03" 
+(2019 - 01 - 24 10 : 35:45 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03" 
+(2019 - 01 - 24 10 : 35:46 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271103AA5D\x03\x02""A10+1271083AA55\x03" 
+(2019 - 01 - 24 10 : 35:47 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:48 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:49 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:50 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:51 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:52 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:53 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:54 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 35:55 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271063AA5B\x03" 
+(2019 - 01 - 24 10 : 35:56 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 35:57 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03" 
+(2019 - 01 - 24 10 : 35:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03\x02""A10+1271063AA5B\x03" 
+(2019 - 01 - 24 10 : 35:59 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 36:00 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 36:01 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 36:02 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 36:03 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270983AA5D\x03" 
+(2019 - 01 - 24 10 : 36:04 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270983AA5C\x03" 
+(2019 - 01 - 24 10 : 36:05 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271003AA5D\x03" 
+(2019 - 01 - 24 10 : 36:06 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 36:07 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271063AA5B\x03" 
+(2019 - 01 - 24 10 : 36:08 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 36:09 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271083AA55\x03" 
+(2019 - 01 - 24 10 : 36:10 周四)
+Warning :File:() Line :(0)Could not parse application stylesheet(2019 - 01 - 24 10 : 36:37 周四)
+Debug : File:() Line :(0)Name: "COM4"(2019 - 01 - 24 10 : 36:38 周四)
+Debug : File:() Line :(0)Description: "USB Serial Port"(2019 - 01 - 24 10 : 36:38 周四)
+Debug : File:() Line :(0)Manufacturer: "FTDI"(2019 - 01 - 24 10 : 36:38 周四)
+Debug : File:() Line :(0)open Serial 
+(2019 - 01 - 24 10 : 36:44 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:45 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:46 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:47 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:48 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:49 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:50 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:51 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:52 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:53 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:54 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:55 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:56 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271083AA54\x03" 
+(2019 - 01 - 24 10 : 36:57 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271063AA5B\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 36:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 36:59 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:00 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:01 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:02 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:03 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:04 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:05 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:06 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:07 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:08 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:09 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:10 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:11 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:12 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:13 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 37:14 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271003AA5D\x03" 
+(2019 - 01 - 24 10 : 37:15 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271003AA5C\x03" 
+(2019 - 01 - 24 10 : 37:16 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271003AA5C\x03" 
+(2019 - 01 - 24 10 : 37:17 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271023AA5F\x03\x02""A10+1271063AA5B\x03" 
+(2019 - 01 - 24 10 : 37:18 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271083AA55\x03" 
+(2019 - 01 - 24 10 : 37:19 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271063AA5B\x03" 
+(2019 - 01 - 24 10 : 37:20 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:21 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:22 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:23 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:24 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:25 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:26 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03" 
+(2019 - 01 - 24 10 : 37:27 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 37:28 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 37:29 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 37:30 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 37:31 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03" 
+(2019 - 01 - 24 10 : 37:32 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 37:33 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271063AA5B\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:34 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:35 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:36 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:37 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:38 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:39 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:40 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:41 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:42 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:43 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:44 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:45 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:46 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:47 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:48 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:49 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:50 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:51 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:52 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:53 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:54 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:55 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:56 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:57 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 37:59 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 38:00 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 38:01 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A10+1271043AA59\x03" 
+(2019 - 01 - 24 10 : 38:02 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 38:03 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:04 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:05 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A10+1271043AA59\x03" 
+(2019 - 01 - 24 10 : 38:06 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:07 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:08 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:09 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:10 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:11 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:12 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:13 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:14 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:15 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271063AA5B\x03" 
+(2019 - 01 - 24 10 : 38:16 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 38:17 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03" 
+(2019 - 01 - 24 10 : 38:18 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:19 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:20 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:21 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03\x02""A00+127" 
+(2019 - 01 - 24 10 : 38:22 周四)
+Debug : File:() Line :(0)receive: "1043AA58\x03\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:23 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:24 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271063AA5B\x03" 
+(2019 - 01 - 24 10 : 38:25 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A00+1271063" 
+(2019 - 01 - 24 10 : 38:26 周四)
+Debug : File:() Line :(0)receive: "AA5A\x03\x02""A10+1271043AA59\x03" 
+(2019 - 01 - 24 10 : 38:27 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:28 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:29 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03\x02""A00+127" 
+(2019 - 01 - 24 10 : 38:30 周四)
+Debug : File:() Line :(0)receive: "1043AA58\x03\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:31 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:32 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:33 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271023AA5F\x03\x02""A00+1271023AA5" 
+(2019 - 01 - 24 10 : 38:34 周四)
+Debug : File:() Line :(0)receive: "E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:35 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:36 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:37 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:38 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:39 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:40 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:41 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+127102" 
+(2019 - 01 - 24 10 : 38:42 周四)
+Debug : File:() Line :(0)receive: "3AA5E\x03\x02""A10+1271043AA59\x03" 
+(2019 - 01 - 24 10 : 38:43 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:44 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 38:45 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00" 
+(2019 - 01 - 24 10 : 38:46 周四)
+Debug : File:() Line :(0)receive: "+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:47 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:48 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:49 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:50 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 38:51 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03" 
+(2019 - 01 - 24 10 : 38:52 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:53 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:54 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:55 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:56 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:57 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 38:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 38:59 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:00 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:01 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:02 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:03 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:04 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:05 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:06 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 39:07 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:08 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:09 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:10 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270983AA5D\x03\x02""A10+1271003AA5D\x03" 
+(2019 - 01 - 24 10 : 39:11 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271003AA5C\x03" 
+(2019 - 01 - 24 10 : 39:12 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271003AA5C\x03" 
+(2019 - 01 - 24 10 : 39:13 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271003AA5C\x03" 
+(2019 - 01 - 24 10 : 39:14 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271023AA5F\x03\x02""A10+1271043AA59\x03" 
+(2019 - 01 - 24 10 : 39:15 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 39:16 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 39:17 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 39:18 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271023AA5F\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:19 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:20 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:21 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:22 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:23 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:24 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:25 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:26 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:27 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:28 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:29 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:30 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:31 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:32 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:33 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:34 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:35 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:36 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:37 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:38 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:39 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:40 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:41 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270983AA5D\x03" 
+(2019 - 01 - 24 10 : 39:42 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270983AA5C\x03\x02""A10+1271043AA59\x03" 
+(2019 - 01 - 24 10 : 39:43 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 39:44 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 39:45 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271003AA5D\x03" 
+(2019 - 01 - 24 10 : 39:46 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 39:47 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271003AA5D\x03" 
+(2019 - 01 - 24 10 : 39:48 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271003AA5C\x03" 
+(2019 - 01 - 24 10 : 39:49 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 39:50 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 39:51 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 39:52 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 39:53 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 39:54 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 39:55 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 39:56 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271043AA58\x03" 
+(2019 - 01 - 24 10 : 39:57 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 39:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 39:59 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:00 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:01 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:02 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:03 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:04 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271043AA59\x03" 
+(2019 - 01 - 24 10 : 40:05 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271063AA5B\x03" 
+(2019 - 01 - 24 10 : 40:06 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271063AA5A\x03\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 40:07 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:08 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:09 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:10 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:11 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:12 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:13 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:14 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:15 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:16 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:17 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:18 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:19 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:20 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:21 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:22 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271003AA5D\x03\x02""A10+1270983AA5D\x03" 
+(2019 - 01 - 24 10 : 40:23 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270963AA53\x03" 
+(2019 - 01 - 24 10 : 40:24 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271003AA5D\x03" 
+(2019 - 01 - 24 10 : 40:25 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1271023AA5F\x03" 
+(2019 - 01 - 24 10 : 40:26 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:27 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:28 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:29 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:30 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:31 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:32 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:34 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:34 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:35 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:36 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:37 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:38 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:39 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:40 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:41 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:42 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:43 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:44 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:45 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:46 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:47 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:48 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1271023AA5E\x03" 
+(2019 - 01 - 24 10 : 40:49 周四)
+Warning :File:() Line :(0)Could not parse application stylesheet(2019 - 01 - 24 10 : 47:53 周四)
+Debug : File:() Line :(0)Name: "COM3"(2019 - 01 - 24 10 : 47:54 周四)
+Debug : File:() Line :(0)Description: "USB Serial Port"(2019 - 01 - 24 10 : 47:54 周四)
+Debug : File:() Line :(0)Manufacturer: "FTDI"(2019 - 01 - 24 10 : 47:54 周四)
+Debug : File:() Line :(0)open Serial 
+(2019 - 01 - 24 10 : 47:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03\x02""A10+1270943AA51\x03" 
+(2019 - 01 - 24 10 : 47:59 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:00 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270963AA53\x03" 
+(2019 - 01 - 24 10 : 48:01 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:02 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03\x02""A00+127096" 
+(2019 - 01 - 24 10 : 48:03 周四)
+Debug : File:() Line :(0)receive: "3AA52\x03\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:04 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:05 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:06 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03\x02""A00" 
+(2019 - 01 - 24 10 : 48:07 周四)
+Debug : File:() Line :(0)receive: "+1270963AA52\x03\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:08 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:09 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:10 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:11 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:12 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:13 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:14 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03\x02""A0" 
+(2019 - 01 - 24 10 : 48:15 周四)
+Debug : File:() Line :(0)receive: "0+1270963AA52\x03\x02""A10+1270943AA51\x03" 
+(2019 - 01 - 24 10 : 48:16 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:17 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:18 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:19 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:20 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:21 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:22 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:23 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:24 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270923AA57\x03" 
+(2019 - 01 - 24 10 : 48:25 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270923AA56\x03" 
+(2019 - 01 - 24 10 : 48:26 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270943AA51\x03" 
+(2019 - 01 - 24 10 : 48:27 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270923AA57\x03\x02""A00+1270923AA56\x03" 
+(2019 - 01 - 24 10 : 48:28 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270923AA56\x03" 
+(2019 - 01 - 24 10 : 48:29 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270923AA56\x03" 
+(2019 - 01 - 24 10 : 48:30 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270943AA51\x03" 
+(2019 - 01 - 24 10 : 48:31 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A10+1270963AA53\x03" 
+(2019 - 01 - 24 10 : 48:32 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:33 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:34 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:35 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:36 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:37 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:38 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270963AA52\x03" 
+(2019 - 01 - 24 10 : 48:39 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270943AA51\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:40 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:41 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:42 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:43 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270963AA53\x03\x02""A10+1270943AA51\x03" 
+(2019 - 01 - 24 10 : 48:44 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:45 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:46 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:47 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A10+1270963AA53\x03" 
+(2019 - 01 - 24 10 : 48:48 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270943AA51\x03" 
+(2019 - 01 - 24 10 : 48:49 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:50 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:51 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:52 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:53 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:54 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:55 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:56 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:57 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 48:59 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:00 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:01 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:02 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:03 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:04 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:05 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:06 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:07 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:08 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:09 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:10 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:11 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:12 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:13 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:14 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:15 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:16 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:17 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:18 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:19 周四)
+Debug : File:() Line :(0)open Serial 
+(2019 - 01 - 24 10 : 49:23 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:24 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:25 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:26 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:27 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:28 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:29 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270943AA50\x03\x02""A00+1270943AA50\x03" 
+(2019 - 01 - 24 10 : 49:30 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270923AA57\x03" 
+(2019 - 01 - 24 10 : 49:31 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270923AA56\x03" 
+(2019 - 01 - 24 10 : 49:32 周四)
+Warning :File:() Line :(0)Could not parse application stylesheet(2019 - 01 - 24 10 : 55:22 周四)
+Debug : File:() Line :(0)Name: "COM3"(2019 - 01 - 24 10 : 55:22 周四)
+Debug : File:() Line :(0)Description: "USB Serial Port"(2019 - 01 - 24 10 : 55:22 周四)
+Debug : File:() Line :(0)Manufacturer: "FTDI"(2019 - 01 - 24 10 : 55:22 周四)
+Warning :File:() Line :(0)Could not parse application stylesheet(2019 - 01 - 24 10 : 56:50 周四)
+Debug : File:() Line :(0)Name: "COM3"(2019 - 01 - 24 10 : 56:50 周四)
+Debug : File:() Line :(0)Description: "USB Serial Port"(2019 - 01 - 24 10 : 56:50 周四)
+Debug : File:() Line :(0)Manufacturer: "FTDI"(2019 - 01 - 24 10 : 56:50 周四)
+Debug : File:() Line :(0)open Serial 
+(2019 - 01 - 24 10 : 56:52 周四)
+Debug : File:() Line :(0)receive: "\x7F\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 56:53 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 56:54 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 56:55 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03\x02""A10+1270883AA5" 
+(2019 - 01 - 24 10 : 56:56 周四)
+Debug : File:() Line :(0)receive: "C\x03\x02""A00+1270883AA5D\x03" 
+(2019 - 01 - 24 10 : 56:57 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270883AA5D\x03" 
+(2019 - 01 - 24 10 : 56:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270883AA5D\x03" 
+(2019 - 01 - 24 10 : 56:59 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270863AA52\x03\x02""A00+12" 
+(2019 - 01 - 24 10 : 57:00 周四)
+Debug : File:() Line :(0)receive: "70863AA53\x03\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 57:01 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 57:02 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270883AA5C\x03" 
+(2019 - 01 - 24 10 : 57:03 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270883AA5D\x03" 
+(2019 - 01 - 24 10 : 57:04 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270883AA5D\x03\x02""A00+1270883AA5D\x03" 
+(2019 - 01 - 24 10 : 57:05 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270883AA5D\x03" 
+(2019 - 01 - 24 10 : 57:06 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270883AA5D\x03" 
+(2019 - 01 - 24 10 : 57:07 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270883AA5D\x03" 
+(2019 - 01 - 24 10 : 57:08 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270883AA5D\x03\x02""A00+1270883AA5D\x03" 
+(2019 - 01 - 24 10 : 57:09 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270883AA5D\x03" 
+(2019 - 01 - 24 10 : 57:10 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270883AA5D\x03" 
+(2019 - 01 - 24 10 : 57:11 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270863AA52\x03" 
+(2019 - 01 - 24 10 : 57:12 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 57:13 周四)
+Warning :File:() Line :(0)Could not parse application stylesheet(2019 - 01 - 24 10 : 59:30 周四)
+Debug : File:() Line :(0)Name: "COM3"(2019 - 01 - 24 10 : 59:30 周四)
+Debug : File:() Line :(0)Description: "USB Serial Port"(2019 - 01 - 24 10 : 59:30 周四)
+Debug : File:() Line :(0)Manufacturer: "FTDI"(2019 - 01 - 24 10 : 59:30 周四)
+Debug : File:() Line :(0)open Serial 
+(2019 - 01 - 24 10 : 59:44 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 59:45 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 59:46 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 59:47 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 59:48 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 59:49 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 59:50 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 59:51 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 59:52 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 59:53 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 59:54 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 10 : 59:55 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270843AA50\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 10 : 59:56 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 10 : 59:57 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 10 : 59:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 10 : 59:59 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:00 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:01 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:02 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:03 周四)
+Debug : File:() Line :(0)This is a debug message(2019 - 01 - 24 11 : 00:03 周四)
+Debug : File:() Line :(0)write: g 
+(2019 - 01 - 24 11 : 00:03 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:04 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:05 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:06 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:07 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270863AA52\x03\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 11 : 00:08 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 11 : 00:09 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 11 : 00:10 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 11 : 00:11 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270843AA50\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:12 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:13 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:14 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:15 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:16 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:17 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:18 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270863AA52\x03" 
+(2019 - 01 - 24 11 : 00:19 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 11 : 00:20 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 11 : 00:21 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 11 : 00:22 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03" 
+(2019 - 01 - 24 11 : 00:23 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270843AA50\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:24 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:25 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:26 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:27 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:28 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:29 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:30 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:31 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:32 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:33 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:34 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:35 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:36 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:37 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:38 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:39 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:40 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:41 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:42 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:43 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:44 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:45 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:46 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270863AA52\x03" 
+(2019 - 01 - 24 11 : 00:47 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270863AA53\x03\x02""A10+1270843A" 
+(2019 - 01 - 24 11 : 00:48 周四)
+Debug : File:() Line :(0)receive: "A50\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:49 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:50 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:51 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03\x02""A0" 
+(2019 - 01 - 24 11 : 00:52 周四)
+Debug : File:() Line :(0)receive: "0+1270843AA51\x03\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:53 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:54 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:55 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270843AA51\x03" 
+(2019 - 01 - 24 11 : 00:56 周四)
+Warning :File:() Line :(0)Could not parse application stylesheet(2019 - 01 - 24 11 : 01:02 周四)
+Debug : File:() Line :(0)Name: "COM3"(2019 - 01 - 24 11 : 01:02 周四)
+Debug : File:() Line :(0)Description: "USB Serial Port"(2019 - 01 - 24 11 : 01:02 周四)
+Debug : File:() Line :(0)Manufacturer: "FTDI"(2019 - 01 - 24 11 : 01:02 周四)
+Debug : File:() Line :(0)open Serial 
+(2019 - 01 - 24 11 : 05:36 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:37 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:38 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:39 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:40 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:41 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:42 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:43 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03\x02""A00+" 
+(2019 - 01 - 24 11 : 05:44 周四)
+Debug : File:() Line :(0)receive: "1270803AA55\x03\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:45 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:46 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:47 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:48 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:49 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:50 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:51 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:52 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:53 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:54 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 05:55 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03\x02""A10+1270783AA53\x03" 
+(2019 - 01 - 24 11 : 05:56 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 05:57 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 05:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 05:59 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:00 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:01 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:02 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270803AA54\x03" 
+(2019 - 01 - 24 11 : 06:03 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 06:04 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 06:05 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 06:06 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270803AA55\x03" 
+(2019 - 01 - 24 11 : 06:07 周四)
+Debug : File:() Line :(0)receive: "\x02""A10+1270783AA53\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:08 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:09 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:10 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:11 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783" 
+(2019 - 01 - 24 11 : 06:12 周四)
+Debug : File:() Line :(0)receive: "AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:13 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:14 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:15 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A" 
+(2019 - 01 - 24 11 : 06:16 周四)
+Debug : File:() Line :(0)receive: "00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:17 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:18 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:19 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:20 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:21 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:22 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:23 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:24 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:25 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:26 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:27 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:28 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:29 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:30 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:31 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:32 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:33 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:34 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:35 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:36 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:37 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:38 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:39 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:40 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:41 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:42 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:43 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:44 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:45 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:46 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:47 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:48 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:49 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:50 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:51 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:52 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:53 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:54 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:55 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:56 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:57 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:58 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 06:59 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:00 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:01 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:02 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:03 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:04 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:05 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:06 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:07 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:08 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:09 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:10 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:11 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:12 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:13 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:14 周四)
+Debug : File:() Line :(0)receive: "\x02""A00+1270783AA52\x03" 
+(2019 - 01 - 24 11 : 07:15 周四)
+Warning :File:() Line :(0)Could not parse application stylesheet(2019 - 01 - 24 11 : 07:47 周四)
+Debug : File:() Line :(0)Name: "COM3"(2019 - 01 - 24 11 : 07:47 周四)
+Debug : File:() Line :(0)Description: "USB Serial Port"(2019 - 01 - 24 11 : 07:47 周四)
+Debug : File:() Line :(0)Manufacturer: "FTDI"(2019 - 01 - 24 11 : 07:47 周四)

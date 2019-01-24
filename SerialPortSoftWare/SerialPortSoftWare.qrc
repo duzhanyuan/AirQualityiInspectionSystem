@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="SerialPortSoftWare">
+    <file>Resources/camera.ico</file>
+    <file>Resources/command.ico</file>
+    <file>Resources/usb.ico</file>
+  </qresource>
+</RCC>
